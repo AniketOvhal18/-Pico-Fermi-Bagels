@@ -15,6 +15,6 @@ Bagels: No digits are correct.
 The objective is to guess the secret number in as few attempts as possible.
 
 # Input details 
-1. 1st line input the size of digits to genrate 
+1. Enter the size of digit to genrate number 
 2. Now start guessing numbers
 3. Enjoy the game
