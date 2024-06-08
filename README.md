@@ -14,7 +14,7 @@ Fermi: One digit is correct and in the right position.
 Bagels: No digits are correct.
 The objective is to guess the secret number in as few attempts as possible.
 
-# Input details 
+# Input Details 
 1. Enter the size of digit to genrate number 
 2. Now start guessing numbers
 3. Enjoy the game
